@@ -1,6 +1,6 @@
 # Hi, I’m David 👋
 
-Senior IT professional specializing in **Linux-based data systems**, **Oracle performance engineering and administration**, and **reliable batch data pipelines** built with Apache Spark and Airflow.
+Senior IT professional specializing in **Linux-based data systems**, **Oracle performance engineering/administration**, and **reliable batch data pipelines** built with Apache Spark and Airflow.
 
 I bring a systems-first mindset — comfortable owning workloads from the OS and database layer up through orchestration and data transformation.
 
