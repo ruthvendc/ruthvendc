@@ -41,7 +41,7 @@ Production-style batch data pipeline built on Linux, orchestrated with Apache Ai
 ---
 
 ## ⚙️ Automation & Reliability Focus
-- Shell scripting to automate recurring operational tasks across muliple targets
+- Shell scripting to automate recurring operational tasks across distributed Linux environments
 - Reducing manual intervention in batch workflows
 - Troubleshooting CPU, memory, and I/O bottlenecks
 - Designing repeatable, supportable data processes
