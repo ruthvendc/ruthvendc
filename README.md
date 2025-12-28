@@ -7,10 +7,10 @@ I bring a systems-first mindset — comfortable owning workloads from the OS and
 ---
 
 ## 🖥️ Oracle, Linux & Automation
-- Oracle DBA & performance tuning
-- Data modeling
-- SQL tuning and execution plan analysis
+- Oracle DBA, performance tuning, and data modeling
 - Shell scripting (Bash) for automation
+- SQL tuning and execution plan analysis
+- Database migrations and project leadership
 - Incident resolution and risk mitigation
 - Capacity planning and performance analysis
 
